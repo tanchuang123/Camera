@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\onevideo.o
+./debug\iconbutton.o
+./debug\mythread.o
+./debug\configdialog.o
+./debug\fullscreenvideo.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_onevideo.o
+./debug\moc_iconbutton.o
+./debug\moc_mythread.o
+./debug\moc_configdialog.o
+./debug\moc_fullscreenvideo.o
+);

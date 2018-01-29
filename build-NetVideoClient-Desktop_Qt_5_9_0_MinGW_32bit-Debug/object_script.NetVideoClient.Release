@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\onevideo.o
+./release\iconbutton.o
+./release\mythread.o
+./release\configdialog.o
+./release\fullscreenvideo.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_onevideo.o
+./release\moc_iconbutton.o
+./release\moc_mythread.o
+./release\moc_configdialog.o
+./release\moc_fullscreenvideo.o
+);
